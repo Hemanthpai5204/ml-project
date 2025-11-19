@@ -1,0 +1,4 @@
+[build]
+  publish = "templates"
+  functions = "functions"
+  command = "echo 'No build step'"
